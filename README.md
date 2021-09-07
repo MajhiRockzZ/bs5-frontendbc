@@ -1,1 +1,1 @@
-# 5️⃣ Bootstrap 5 front-end boot-camp
+# Bootstrap5️⃣ Front-end Bootcamp
